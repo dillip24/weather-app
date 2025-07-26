@@ -39,8 +39,8 @@ A modern, responsive weather application built with React and Vite that provides
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weather.git
-   cd weather
+   git clone https://github.com/dillip24/weather-app.git
+   cd weather-app
    ```
 
 2. **Install dependencies**
@@ -72,7 +72,7 @@ This app is configured for easy deployment to GitHub Pages:
 
 1. **Update the homepage URL** in `package.json`:
    ```json
-   "homepage": "https://yourusername.github.io/weather"
+   "homepage": "https://dillip24.github.io/weather-app"
    ```
 
 2. **Deploy manually**:
